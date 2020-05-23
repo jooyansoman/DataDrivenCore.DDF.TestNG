@@ -1,0 +1,6 @@
+/.gitkeep
+/ProjectConfig.properties
+/com/
+/prod.properties
+/testng.xml
+/uat.properties
