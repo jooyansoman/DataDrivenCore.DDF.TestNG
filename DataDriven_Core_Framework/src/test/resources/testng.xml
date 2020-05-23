@@ -1,0 +1,22 @@
+<suite name="My suite">
+
+<test name="TestA" allow-return-values="true">
+    <classes>
+        <class name="com.qtpselenium.core.ddf.testcases.DummyTestA" />  
+    </classes>
+</test>
+
+<test name="TestB" allow-return-values="true">
+    <classes>
+        <class name="com.qtpselenium.core.ddf.testcases.DummyTestB" />  
+    </classes>
+</test>
+
+<test name="TestC" allow-return-values="true">
+    <classes>
+        <class name="com.qtpselenium.core.ddf.testcases.DummyTestC" />   
+    </classes>
+</test>
+
+
+</suite>
